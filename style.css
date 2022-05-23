@@ -444,9 +444,9 @@ button.scrollButton {
   border: none;
   opacity: 0.4;
   cursor: pointer;
-  transition: ease-in-out .7s;
+  transition: ease-in-out 0.7s;
 }
 
-button.scrollButton:hover{
+button.scrollButton:hover {
   opacity: 0.8;
 }
